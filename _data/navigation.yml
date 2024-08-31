@@ -1,5 +1,7 @@
 # main links links
 main:
+  - title: "QR Codes"
+    url: /qr_code/
   - title: "Publications"
     url: /publications/
 
