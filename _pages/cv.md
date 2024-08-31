@@ -5,13 +5,11 @@ permalink: /cv/
 author_profile: true
 ---
 
-- Short CV - November 2023 [[pdf](/files/Ahmadpanah-ShortCV-Nov2023.pdf)] 
-- Short CV - May 2019 [[pdf](/files/Ahmadpanah-ShortCV-May2019.pdf)]
-- Long CV - May 2019 [[pdf](/files/Ahmadpanah-CV-May2019.pdf)]
+- Short CV - September 2024 [[pdf](/files/AbrahamAzarCV_short.pdf)] 
 
-<!-- 
-### Transcripts (at Amirkabir)
-- PhD [[pdf](/files/Ph.D.Transcript-en.pdf)]
-- MSc [[pdf](/files/M.Sc.Transcript-en.pdf)]
-- BSc [[pdf](/files/B.Sc.Transcript-en.pdf)]
--->
+<object data="{{ site.url }}/files/AbrahamAzarCV_short.pdf" width="1000" height="500" type='application/pdf'></object>
+
+- Long CV - September 2023 [[pdf](/files/AbrahamAzar_Long_CV.pdf)]
+
+<object data="{{ site.url }}/files/AbrahamAzar_Long_CV.pdf" width="1000" height="500" type='application/pdf'></object>
+

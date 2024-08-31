@@ -12,11 +12,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Lecture Notes"
-    url: /lecturenotes/
-
-  - title: "Photos"
-    url: /gothenburgwithme/
+  # - title: "Photos"
+  #   url: /photos/
 
   - title: "Others"
     url: /others/  
