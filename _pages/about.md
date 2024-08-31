@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 <style>
-.farsi { font-family:PERSWEB; font-weight: bold; font-size:11pt; }
-.header-color { color:#0f2b46; }
 .twocol { columns: 2 }
 ul.twocol { width: 110%; }
 </style>
