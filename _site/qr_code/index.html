@@ -194,10 +194,10 @@
         <b style="font-size: 24px;">LinkedIn</b><br />
         <img src="http://localhost:4000/images/linkedin_qr_code_croped.jpeg" width="250" height="250" style="margin-top: 10px;" />
     </div>
-    <div style="display: inline-block;vertical-align: top; text-align: center;">
-        <b style="font-size: 24px;">ORCID</b><br />
-        <img src="http://localhost:4000/images/ORCID.png" width="250" height="250" style="margin-top: 10px;" />
-    </div>
+    <!-- <div style="display: inline-block;vertical-align: top; text-align: center;">
+        <b style="font-size: 24px;">ORCID</b><br>
+        <img src="http://localhost:4000/images/ORCID.png" width="250" height="250" style="margin-top: 10px;"/>
+    </div> -->
 </div>
 
 <style>
@@ -240,35 +240,34 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script>
   const monthNames = ["January", "February", "March", "April", "May", "June",
-  "July", "August", "September", "October", "November", "December"];
+    "July", "August", "September", "October", "November", "December"];
 
-    $.getJSON('https://api.github.com/repos/smahmadpanah/smahmadpanah.github.io/branches/master', function(resp) {
-        var date = new Date(`${resp.commit.commit.author.date}`);
-        var text = date.getDate() + " " + monthNames[date.getMonth()] + " " + date.getFullYear(); 
-        $(".last-commit").html(text);
-    });
+  $.getJSON('https://api.github.com/repos/abrahamaz/abrahamaz.github.io/branches/main', function (resp) {
+    var date = new Date(`${resp.commit.commit.author.date}`);
+    var text = date.getDate() + " " + monthNames[date.getMonth()] + " " + date.getFullYear();
+    $(".last-commit").html(text);
+  });
 </script>
 
-<div class="page__footer-copyright">&copy; 2024 <a href='' >Abraham Azar</a> (Last Update: <span class="last-commit"></span>) <div style='font-size:7px'> Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2024 <a href=''>Abraham Azar</a> (Last Update: <span class="last-commit"></span>) <div style='font-size:7px'> Powered by <a href="https://jekyllrb.com"
+      rel="nofollow">Jekyll</a> &amp; <a
+      href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a
+      href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 </div>
 
 
 <!-- Default Statcounter code for smahmadpanah.github.io -->
 <script type="text/javascript">
-var sc_project=9517515; 
-var sc_invisible=1; 
-var sc_security="05508828"; 
+  var sc_project = 9517515;
+  var sc_invisible = 1;
+  var sc_security = "05508828"; 
 </script>
-<script type="text/javascript"
-src="https://www.statcounter.com/counter/counter.js"
-async></script>
-<noscript><div class="statcounter"><a title="Web Analytics"
-href="https://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="https://c.statcounter.com/9517515/0/05508828/1/"
-alt="Web Analytics"></a></div></noscript>
+<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>
+<noscript>
+  <div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" target="_blank"><img
+        class="statcounter" src="https://c.statcounter.com/9517515/0/05508828/1/" alt="Web Analytics"></a></div>
+</noscript>
 <!-- End of Statcounter Code -->
-
       </footer>
     </div>
 

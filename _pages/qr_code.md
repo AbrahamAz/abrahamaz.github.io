@@ -10,10 +10,10 @@ author_profile: false
         <b style="font-size: 24px;">LinkedIn</b><br>
         <img src="{{ site.url }}/images/linkedin_qr_code_croped.jpeg" width="250" height="250" style="margin-top: 10px;"/>
     </div>
-    <div style="display: inline-block;vertical-align: top; text-align: center;">
+    <!-- <div style="display: inline-block;vertical-align: top; text-align: center;">
         <b style="font-size: 24px;">ORCID</b><br>
         <img src="{{ site.url }}/images/ORCID.png" width="250" height="250" style="margin-top: 10px;"/>
-    </div>
+    </div> -->
 </div>
 
 <style>
