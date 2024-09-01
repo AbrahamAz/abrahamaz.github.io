@@ -13,18 +13,20 @@ ul.twocol { width: 110%; }
 </style>
 
 
-**Hello!** This is Abraham, a Data Specialist working in the field of Public Health at [Impact Initiatives](https://www.impact-initiatives.org/) in Geneva, Switzerland, started in November 2023. 
-I moved couple of countries with Impact Initiatives (**Lebanon**, **Jordan**, and **Ukraine**) and worked on multiple complex humanitarian contexts (**Syria**, **Ukraine**, and currently covering a **global** position).
-I hold a BSc in Computer Science and currently pursuing my MSc in Geographical Information Systems at [University of Aberdeene](https://www.abdn.ac.uk/). 
+**Hello!** I'm Abraham Azar, a Data Specialist at [Impact Initiatives](https://www.impact-initiatives.org/) based in Geneva, Switzerland. Since joining in November 2023, I've been deeply involved in the intersection of data science adn public health, driving impactful projecs across various regions. My journey with Impact Initiatives has taken me to several countries, including **Lebanon**, **Jordan**, and **Ukraine**, where I've tackled complex humanitarian challenges and led data-driven solutions of the world's most pressing crises.
 <br>
 <br>
-Since then, I have been pursuing my passion for:
+With a BSc in Computer Science and currently pursuing an MSc in Geographical Information Systems at the [University of Aberdeene](https://www.abdn.ac.uk/), I combine technical expertise with a passion for leveraging data to solve real-world problems. My work spans multiple domains including:
+<br>
+<br>
 <ul class = 'twocol' style='margin-top: -1%;' markdown= '1'>
 <li> Data Science</li>
 <li> Software Development</li>
 <li> Remote Sensing & GIS</li>
 <li> Programming Languages</li>
 </ul>
+
+Explore my CV to learn more about my experience, or dive more into my work to see how I turn data into actionable insights. 
 
 
 

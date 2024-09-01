@@ -14,6 +14,7 @@ author_profile: false
 });
 </script>
 
+<script src="/assets/scripts/copyCode.js"></script>
 
 <style>
 .abstract{text-align:justify; }
@@ -23,14 +24,12 @@ author_profile: false
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
-
-
+## R Packages
 
 <ol>
 
 <div id="1">
-<li> <b>impactR4PHU R Package</b>, <em>Global Public Health Unit - Impact Initiatives</em>, 2024 [<a href="https://github.com/impact-initiatives/impactR4PHU">link</a>]
+<li> <b>impactR4PHU Package</b>, <em>Global Public Health Unit - Impact Initiatives</em>, 2024 [<a href="https://github.com/impact-initiatives/impactR4PHU">link</a>]
   <br>Public Health Technical Support: Saeed Rahman, Olivia Falkowitz, Noortje Gerritsma, Martin Njoroge, Michele Citton. Other Support: Yann Say-Liang-Fat
 <div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
 <div class='abstract'>
@@ -46,6 +45,95 @@ The Descriptive Analysis is an analytical platform that presents a multitude of 
 </p>
 </div></li></div>
 
+<div id="2">
+<li> <b>utilityR Package</b>, <em>Ukraine Mission - Impact Initiatives</em>, 2024 [<a href="https://github.com/REACH-WoU/utilityR">link</a>]
+  <br>A collaborative work with: Nestor Cheryba, and Bohdan Marynenko
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+The package is devoted to a number of functions used within the standard Reach Ukraine cleaning processes.
+<p style="margin-top: -0.1%;">
+ The package is composed of a number of function 'families' each dealing with a specific aspect of the data manipulation. Please read vignettes and individual function documentation to discover more about each of the families in greater detail. you can browse the vignettes of this package by calling vignette(package='utilityR'). 
+</p>
+<p style="margin-top: -2.5%;">
+The text below presents a comprehensive overview of the cleaning process and how each of the functions are used within their respective frameworks. The text below follows the structure of the cleaning template presented in the markdown templates of this package.
+</p>
+<p style="margin-top: -2.5%">
+This set of functions and scripts is a legacy of Reach Syria team. It was later transfered to Reach Regional team in Ukraine/Poland/Moldova. Reach Ukraine team has built a package around those functions by testing, optimizing and improving the legacy scripts and running the presented script on multiple research cycles. If you find any bugs or have any suggestions, please text the package maintainers.
+</p>
+</div></li></div>
+
+<div id="3">
+<li> <b>cleaning_template Package</b>, <em>Ukraine Mission - Impact Initiatives</em>, 2024 [<a href="https://github.com/REACH-WoU/cleaning_template">link</a>]
+  <br>A collaborative work with: Nestor Cheryba, and Bohdan Marynenko
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+This document is based on the standard cleaning procedure of the utilityR package. Please check the documentation of the package for more details
+<p style="margin-top: -0.1%;">
+This set of functions and scripts is a legacy of Reach Syria team. It was later transfered to Reach Regional team in Ukraine/Poland/Moldova. Reach Ukraine team has built a package around those functions by testing, optimizing and improving the legacy scripts and running the presented script on multiple research cycles. If you find any bugs or have any suggestions, please text the package maintainers.
+</p>
+</div></li></div>
+
+</ol>
+
+
+## Guidelines
+
+<ol>
+<div id="4">
+<li> <b>Rcookbook</b>, <em>Impact Initiatives</em>, 2023 [<a href="https://github.com/impact-initiatives/rcookbook">link</a>]
+  <br>A collective work of the R Squad.
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+This book aims to be a small collection of codes used across different mission. It contains examples of different problems you can face and offers guidance to solve them. The codes are not exhaustive but just examples.
+</div></li></div>
+
+<div id="2">
+<li> <b>KoboToolbox XML</b>, <em>Impact Initiatives</em>, 2023 [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>]
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+This guideline aims to provide the Do's and Dont's of coding XML forms for KoboToolBox or ODK.
+</div></li></div>
+</ol>
+
+## Dashboards & Data Visualizations
+
+<ol>
+<div id="4">
+<li> <b>Ukraine Population Distribution Dashboard</b>, <em>Ukraine Mission: Impact Initiatives</em>, 2023 [<a href="https://github.com/impact-initiatives/rcookbook">link</a>]
+  <br>Merged and Adapted from the work of Md. Mehedi. 
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+ADD DESCRIPTION HERE
+</div></li></div>
+
+<div id="2">
+<li> <b>Analysis App</b>, <em>Impact Initiatives</em>, 2023 [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>]
+  <br>Support: Nestor Cheryba
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+ADD Desctiption here
+</div></li></div>
+</ol>
+
+## Publications
+
+<ol>
+<div id="4">
+<li> <b>Data Imputation using ISMI Data</b>, <em>Ukraine Mission: Impact Initiatives</em>, 2023 [<a href="https://github.com/impact-initiatives/rcookbook">link</a>]
+  <br>Merged and Adapted from the work of Md. Mehedi. 
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+ADD DESCRIPTION HERE
+</div></li></div>
+
+<div id="2">
+<li> <b>Remote Mortality Studies in DRC</b>, <em>Impact Initiatives</em>, 2024 [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>]
+  <br>Collaborative work: Saeed Rahman, Joeri Smits, Christina Kay
+<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<div class='abstract'>
+To be coming
+</div></li></div>
+</ol>
 
 
 
