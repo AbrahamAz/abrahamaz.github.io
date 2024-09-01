@@ -5,8 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-
-
 # Site Settings
 locale                   : "en-US"
 title                    : "Abraham Azar"
@@ -84,7 +82,7 @@ analytics:
 author:
   name             : "Abraham Azar"
   avatar           : "logo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Specialist<br>Software Developper<br><br><strong>Geneva - Switzerland</strong>"
+  bio              : "Data Specialist<br><br><strong>Geneva - Switzerland</strong>"
   phone            : "+4178313337"
   email            : "mailto:abraham.azar30@outlook.com"
   github           : "AbrahamAz"

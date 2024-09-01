@@ -17,5 +17,5 @@ main:
   # - title: "Photos"
   #   url: /photos/
 
-  - title: "Others"
-    url: /others/  
+  # - title: "Others"
+  #   url: /others/  

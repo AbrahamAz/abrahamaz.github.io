@@ -2,7 +2,7 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-author_profile: true
+author_profile: false
 ---
 
 Here are some of the trainings/teaching I created/supported on creating:

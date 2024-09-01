@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 ---
 
 - Short CV - September 2024 [[pdf](/files/AbrahamAzarCV_short.pdf)] 
