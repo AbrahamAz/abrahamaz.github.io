@@ -15,7 +15,7 @@ ul.twocol { width: 110%; }
 
 **Hello!** This is Abraham, a Data Specialist working in the field of Public Health at [Impact Initiatives](https://www.impact-initiatives.org/) in Geneva, Switzerland, started in November 2023. 
 I moved couple of countries with Impact Initiatives (**Lebanon**, **Jordan**, and **Ukraine**) and worked on multiple complex humanitarian contexts (**Syria**, **Ukraine**, and currently covering a **global** position).
-I hold a BSc in Computer Science and currently pursuing my MSc in Geographical Information Systems at [Universit of Aberdeene](https://www.abdn.ac.uk/). 
+I hold a BSc in Computer Science and currently pursuing my MSc in Geographical Information Systems at [University of Aberdeene](https://www.abdn.ac.uk/). 
 <br>
 <br>
 Since then, I have been pursuing my passion for:
