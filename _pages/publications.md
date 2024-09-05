@@ -119,19 +119,20 @@ ADD Desctiption here
 
 <ol>
 <div id="4">
-<li> <b>Data Imputation using ISMI Data</b>, <em>Ukraine Mission: Impact Initiatives</em>, 2023 [<a href="https://github.com/impact-initiatives/rcookbook">link</a>]
+<li> <b>Data Imputation using ISMI Data</b>, <em>Ukraine Mission: Impact Initiatives</em>, 2023 
   <br>Merged and Adapted from the work of Md. Mehedi. 
-<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+<!-- <div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
 <div class='abstract'>
 ADD DESCRIPTION HERE
-</div></li></div>
+</div></li></div> -->
 
 <div id="2">
-<li> <b>Remote Mortality Studies in DRC</b>, <em>Impact Initiatives</em>, 2024 [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>]
+<li> <b>Remote Mortality Studies in DRC</b>, <em>Impact Initiatives</em>, 2024
+ <!-- [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>] -->
   <br>Collaborative work: Saeed Rahman, Joeri Smits, Christina Kay
 <div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
 <div class='abstract'>
-To be coming
+To be pubished soon
 </div></li></div>
 </ol>
 
