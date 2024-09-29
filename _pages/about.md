@@ -13,10 +13,10 @@ ul.twocol { width: 110%; }
 </style>
 
 
-**Hello!** I'm Abraham Azar, a Data Specialist at [Impact Initiatives](https://www.impact-initiatives.org/) based in Geneva, Switzerland. Since joining in November 2023, I've been deeply involved in the intersection of data science adn public health, driving impactful projecs across various regions. My journey with Impact Initiatives has taken me to several countries, including **Lebanon**, **Jordan**, and **Ukraine**, where I've tackled complex humanitarian challenges and led data-driven solutions of the world's most pressing crises.
+**Hello!** I'm Abraham Azar, a Data Specialist at [Impact Initiatives](https://www.impact-initiatives.org/) based in Geneva, Switzerland. Since joining in November 2023, I've been deeply involved in the intersection of data science and public health, driving impactful projects across various regions. My journey with Impact Initiatives has taken me to several countries, including **Lebanon**, **Jordan**, and **Ukraine**, where I've tackled complex humanitarian challenges and led data-driven solutions of the world's most pressing crises.
 <br>
 <br>
-With a BSc in Computer Science and currently pursuing an MSc in Geographical Information Systems at the [University of Aberdeene](https://www.abdn.ac.uk/), I combine technical expertise with a passion for leveraging data to solve real-world problems. My work spans multiple domains including:
+With a BSc in Computer Science and currently pursuing an MSc in Geographical Information Systems at the [University of Aberdeen](https://www.abdn.ac.uk/), I combine technical expertise with a passion for leveraging data to solve real-world problems. My work spans multiple domains including:
 <br>
 <br>
 <ul class = 'twocol' style='margin-top: -1%;' markdown= '1'>
