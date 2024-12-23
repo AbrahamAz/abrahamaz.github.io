@@ -61,22 +61,20 @@ author_profile: false
 <div class="container">
         <!-- Coding Section -->
         <div class="section">
-            <h2>Coding</h2>
+            <h2>Skills</h2>
             <ul>
                 <li><span>R</span> <span class="stars stars-5"></span></li>
                 <li><span>Python</span> <span class="stars stars-5"></span></li>
                 <li><span>HTML/5</span> <span class="stars stars-5"></span></li>
                 <li><span>CSS/3</span> <span class="stars stars-5"></span></li>
-                <li><span>ArcPy / Leafet</span> <span class="stars stars-5"></span></li>
+                <li><span>ArcPy / Leaflet</span> <span class="stars stars-5"></span></li>
                 <li><span>NodeJS</span> <span class="stars stars-2"></span></li>
-                <li><span>JavaScript / D3</span> <span class="stars stars-3"></span></li>
-                <li><span>MySQL</span> <span class="stars stars-4"></span></li>
+                <li><span>JavaScript / D3.js</span> <span class="stars stars-3"></span></li>
+                <li><span>SQL / PySpark</span> <span class="stars stars-4"></span></li>
                 <li><span>Kobo / XLS</span> <span class="stars stars-5"></span></li>
                 <li><span>JSON / XML</span> <span class="stars stars-4"></span></li>
-                <li><span>Azure / Google Cloud</span> <span class="stars stars-3"></span></li>
-                <li><span>GIT</span> <span class="stars stars-5"></span></li>
+                <li><span>GIT / Yaml</span> <span class="stars stars-5"></span></li>
                 <li><span>CLI</span> <span class="stars stars-5"></span></li>
-                <li><span>CI / CD</span> <span class="stars stars-5"></span></li>
             </ul>
         </div>  
         <!-- Tools / Languages Section -->
@@ -92,14 +90,15 @@ author_profile: false
             </ul>
             <h2>Tools / Others</h2>
             <ul>
-                <li><span>Apple / MacOS</span> <span class="stars stars-5"></span></li>
-                <li><span>Github / Git Actions</span> <span class="stars stars-5"></span></li>
-                <li><span>ESRI / ArcPro</span> <span class="stars stars-5"></span></li>
+                <li><span>DevOps - CI/CD</span> <span class="stars stars-5"></span></li>
+                <li><span>Power Apps / Fabric</span> <span class="stars stars-5"></span></li>
                 <li><span>PowerBI / Streamlit / Shiny</span> <span class="stars stars-5"></span></li>
+                <li><span>ESRI / ArcPro</span> <span class="stars stars-5"></span></li>
+                <li><span>Github / Git Actions</span> <span class="stars stars-5"></span></li>
                 <li><span>Web GIS / Arc Online</span> <span class="stars stars-4"></span></li>
                 <li><span>Jira / Atlassian</span> <span class="stars stars-4"></span></li>
                 <li><span>Scrum / Agile</span> <span class="stars stars-4"></span></li>
-                <li><span>Modern Browsers (default: Chrome)</span> <span class="stars stars-5"></span></li>
+                <li><span>Azure / Databricks</span> <span class="stars stars-5"></span></li>
             </ul>
         </div>
     </div>

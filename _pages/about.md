@@ -13,7 +13,7 @@ ul.twocol { width: 110%; }
 </style>
 
 
-**Hello!** I'm Abraham Azar, a Data Specialist at [Impact Initiatives](https://www.impact-initiatives.org/) based in Geneva, Switzerland. Since joining in November 2023, I've been deeply involved in the intersection of data science and public health, driving impactful projects across various regions. My journey with Impact Initiatives has taken me to several countries, including **Lebanon**, **Jordan**, and **Ukraine**, where I've tackled complex humanitarian challenges and led data-driven solutions of the world's most pressing crises.
+**Hello!** I'm Abraham Azar, a Solution Architect at [Danish Refugee Council (DRC)](https://www.drc.ngo/) based in Copenhagen, Denmark. Since joining in November 2024, I have been leading the DRC Kobo project as the new IM System with a goal to centralize the widely used data collection tool. Before DRC, I worked with Impact Initiatives for over 9 years. Between November 2023 and November 2024, I took the role of a Data Specialist at HQ (Geneva, Switzerland) where I've been deeply involved in the intersection of data science and public health, driving impactful projects across various regions. My journey with Impact Initiatives has taken me to several countries, including **Lebanon**, **Jordan**, and **Ukraine**, where I've tackled complex humanitarian challenges and led data-driven solutions of the world's most pressing crises.
 <br>
 <br>
 With a BSc in Computer Science and currently pursuing an MSc in Geographical Information Systems at the [University of Aberdeen](https://www.abdn.ac.uk/), I combine technical expertise with a passion for leveraging data to solve real-world problems. My work spans multiple domains including:
@@ -23,7 +23,7 @@ With a BSc in Computer Science and currently pursuing an MSc in Geographical Inf
 <li> Data Science</li>
 <li> Software Development</li>
 <li> Remote Sensing & GIS</li>
-<li> Programming Languages</li>
+<li> IT Architect</li>
 </ul>
 
 Explore my CV to learn more about my experience, or dive more into my work to see how I turn data into actionable insights. 
