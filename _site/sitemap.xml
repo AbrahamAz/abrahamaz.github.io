@@ -7,6 +7,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/certifications/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/cv/</loc>
 </url>
 <url>
@@ -22,9 +25,6 @@
 <loc>http://localhost:4000/teaching/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/photos/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/assets/Persian-Web/ffonts.net.htm</loc>
 <lastmod>2024-12-21T13:30:28+03:30</lastmod>
 </url>
@@ -38,7 +38,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/files/AbrahamAzar_Long_CV.pdf</loc>
-<lastmod>2025-01-07T23:25:23+03:30</lastmod>
+<lastmod>2025-02-15T13:50:44+03:30</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/googlecf896fb13fbee04c.html</loc>

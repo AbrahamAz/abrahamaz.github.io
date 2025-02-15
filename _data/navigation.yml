@@ -5,7 +5,10 @@ main:
 
   - title: "Abilities"
     url: /abilities/
-    
+
+  - title: "Certifications"
+    url: /certifications/
+
   - title: "Publications"
     url: /publications/
 
@@ -17,4 +20,3 @@ main:
 
   - title: "CV"
     url: /cv/
-
