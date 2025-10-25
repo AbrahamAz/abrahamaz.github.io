@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script>
   $(document).ready(function () {
@@ -22,8 +23,9 @@ author_profile: false
 </style>
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
 ## R Packages
 
 <ol>
@@ -74,7 +76,6 @@ This set of functions and scripts is a legacy of Reach Syria team. It was later 
 </div></li></div>
 
 </ol>
-
 
 ## Guidelines
 
@@ -135,20 +136,16 @@ ADD DESCRIPTION HERE
 </div></li></div> -->
 
 <div id="2">
-<li> <b>Remote Mortality Studies in DRC</b>, <em>Impact Initiatives</em>, 2024
+<li> <b>Estimating death rates in complex humanitarian emergencies using the network survival metho</b>, <em>Impact Initiatives</em>, 2024 [<a href="https://academic.oup.com/aje/advance-article/doi/10.1093/aje/kwaf101/8126368">link</a>]
  <!-- [<a href="https://github.com/REACH-WoU/kobo_guidelines">link</a>] -->
-  <br>Collaborative work: Saeed Rahman, Joeri Smits, Christina Kay
-<div class='button' data-content="toggle-text"><a href="#8">abstract</a></div>
+  <br>Collaborative work: Casey F Breen, Saeed Rahman, Christina Kay, Joeri Smits, Steve Ahuka, Dennis M Feehan
+<div class='button' data-content="toggle-text"><a href="#8">Abstract</a></div>
 <div class='abstract'>
-To be pubished soon
+Reliable estimates of death rates in complex humanitarian emergencies are critical for assessing the severity of a crisis and for effectively allocating resources. However, in many humanitarian settings, logistical and security concerns make conventional methods for estimating death rates infeasible. We develop and test a new method for estimating death rates in humanitarian emergencies using reports of deaths in survey respondents’ social networks. To test our method, we collected original data in Tanganyika Province of the Democratic Republic of the Congo (N = 5,311), a setting where reliable estimates of crude death rates (CDR) are in high demand. Qualitative fieldwork suggested testing two different types of personal networks as the basis for CDR estimates: deaths among immediate neighbors and deaths among kin. We compare our network-based estimates (0.44 deaths per 10,000 person-days) against a standard retrospective household mortality survey, which estimated a CDR nearly twice as high (0.81 deaths per 10,000 person-days). Given that both methods are equally plausible, our findings underscore the need for further validation and development of both methods.
 </div></li></div>
 </ol>
 
-
-
-
-
-<!-- 
+<!--
 {% include base_path %}
 
 {% for post in site.publications reversed %}
